@@ -47,62 +47,68 @@ Currently the outline is 210mm x 210mm
 
 
 ## BOM
+### Frame
+| Item | Quantity | Price (USD) |
+|------|----------|------------|
+| 2020 T-Slot 200mm | 4 | - |
+| 2020 T-Slot 250mm | 4 | - |
+| L brackets | 2 | $8.88 |
+| T brackets | 2 | - |
+| 2020 Corner Bracket | 4 | $3.00 |
 
-At home:
-nothing
+### Motion
+| Item | Quantity | Price (USD) |
+|------|----------|------------|
+| GT2 6mm wide Belt (4 meters) | 1 | $10.00 |
+| 20 Tooth 5mm Bore Pulley | 4 | $12.00 |
+| F695 Bearing Pack (10 bearings, 12 needed) | 2 | $8.00 |
+| MGN9C 150mm for X | 1 | $11.33 |
+| Nema17 with XH2.54 Cable (48mm max for Y motor) | 4 | $53.00 |
+| 8mm Linear Rod 250mm for Y and Z | 4 | $7.00 |
+| LM8LUU 8x15x45mm | 4 | $27.08 |
+| 3:1 Gear Reduction with belts | 2 | $18.00 |
+| 50mm x 5mm pin for Z Gearbox | 2 | $10.00 |
 
-Kappy	Ali Price
-Frame	
-4 - 2020 T - Slot 200mm	
-4 - 2020 T - Slot 250mm	$39.00
-2 - L brackets and 2 - T brackets	$8.88
-4 - 2020 Corner Bracket	$3.00
-	
-Motion	
-GT2 6mm wide Belt 4 meters	$10.00
-4 - 20 Tooth 5mm Bore Pulley 	$12.00
-2 - F695 Bearing Pack of 10 ( 12 Bearings needed )	$8.00
-1 - MGN9C 150mm for X	$11.33
-4 - Nema17 with XH2.54 Cable ( 48mm max for Y motor ) ( LDO or Stepper Online Recommended )	$53.00
-4 - 8mm Linear Rod 250mm for Y and Z	$7.00
-4 - LM8LUU 8x15x45mm	$27.08
-2 - 3:1 Grear Reduction with belts ( SELECT Bore Diameter: 20T5 - 60T5 and Width: 2GT-200-6 )	$18.00
-2 - 50mm x 5mm pin for Z Gearbox	$10.00
-	
-Hardware	
-4   - M3 x 6mm Buttonhead used for toolhead	
-30 - M3 x 8mm Socket Head	
-4   - M3 x 12mm Socket Head	
-4   - M3 x 16mm Socket Head	
-2  -  M3 x 20mm Bambu Hotend Mount ( You might need diffrent ones depending on the hotend you choose )	
-2   - M3 x 35mm for dragon burner mount	
-4   - M3 T-Nut to mount linear rail to X 2020 extrusion	
-76 - M5 x 8mm Socket Head	
-7   - M5 x 16mm Socket Head	
-1   - M5 x 30mm Socket Head	
-76 - M5 T-Nut	
-4   - M5 Washer ( SELECT M5x10x1 x50pcs )	
-Heatsets M3 X D5.0 X L4.0 ( I order 300 because you always need them :) )	
-4 - 38 x 20 Rubber Feet I usually buy these on Amazon	$8.00
-Plus additional bolts for Dragon Burner Toolhead	
-	
-Extruder + Hotend	
-Dual Gear Extruder HGX-LITE-Extruder	$60.00
-Bambu X1 style hotend	$22.00
-	
-Electronics	
-24v 8amp AC Adapter	$40.00
-Mellow DP5 Mainboard	$35.00
-1 - 3010 24v with 2 Pin HX2.54 connector ( SELECT 3010 Fan NOT BLOWER 24V ) ( I recommend GDstime )	$11.00
-2 - 4010 24v 2 Pin HX2.54 connector ( SELECT 4010 BLOWER ONLY 24V ) ( I recommend GDstime )	$11.00
-BLtouch	$10.00
-	
-TOTAL CAD	$394.29
-TOTAL USD	$307.55
+### Hardware
+| Item | Quantity |
+|------|----------|
+| M3 x 6mm Buttonhead (for toolhead) | 4 |
+| M3 x 8mm Socket Head | 30 |
+| M3 x 12mm Socket Head | 4 |
+| M3 x 16mm Socket Head | 4 |
+| M3 x 20mm Bambu Hotend Mount | 2 |
+| M3 x 35mm (for Dragon Burner mount) | 2 |
+| M3 T-Nut (to mount linear rail to X 2020 extrusion) | 4 |
+| M5 x 8mm Socket Head | 76 |
+| M5 x 16mm Socket Head | 7 |
+| M5 x 30mm Socket Head | 1 |
+| M5 T-Nut | 76 |
+| M5 Washer (M5x10x1 x50pcs) | 4 |
+| Heatsets M3 X D5.0 X L4.0 (Order 300) | - |
+| Rubber Feet (38 x 20) | 4 | $8.00 |
+| Additional bolts for Dragon Burner Toolhead | - |
+
+### Extruder + Hotend
+| Item | Quantity | Price (USD) |
+|------|----------|------------|
+| Dual Gear Extruder HGX-LITE-Extruder | 1 | $60.00 |
+| Bambu X1 style hotend | 1 | $22.00 |
+
+### Electronics
+| Item | Quantity | Price (USD) |
+|------|----------|------------|
+| 24V 8A AC Adapter | 1 | $40.00 |
+| Mellow DP5 Mainboard | 1 | $35.00 |
+| 3010 24V Fan (2 Pin HX2.54 connector) | 1 | $11.00 |
+| 4010 24V Blower (2 Pin HX2.54 connector) | 2 | $11.00 |
+| BLTouch | 1 | $10.00 |
+
+### Total Cost
+| Currency | Amount |
+|----------|--------|
+| CAD | $394.29 |
+| USD | $307.55 |
 
 ## Pics
-18/02/2025 Heatbed: ![](https://cdn.hack.pet/slackcdn/11dc794417b947579c270e11f176daff.png)
-21/02/2025 Y axis done and half done Z: ![](https://cdn.hack.pet/slackcdn/48c60da0e7cb54b82845f4f665a12c6f.png)
-22/02/2025 Z axis also done!  ![](https://cloud-1elf02lqk-hack-club-bot.vercel.app/0image.png)
-23/02/2025 Print head assembly: ![](https://cloud-9zmpe3qgl-hack-club-bot.vercel.app/0image.png)
+
 
