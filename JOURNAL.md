@@ -6,7 +6,7 @@ Made by: @akul
 
 Respository link: https://github.com/akulsaju/terbium
 
-Hours so far: 52.5h
+Hours so far: 49h 23m
 
 - [x] I have a prusa and access to larger printers
 
