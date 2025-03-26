@@ -59,5 +59,68 @@ Currently, the outline is 210mm x 210mm
 | 18/03 | Running final interference checks    | 5 hours  | Making sure nothing collides, testing tolerances in software. No unexpected crashes! |
 | 19/03 | Fixing Colliding parts  | 6 hours  |Fixing it |
 | 20/03 | another part is too thin | 6 hours  | Fixed!! |
+## BOM (Bill of Materials)
+
+### **Frame**
+| Item                          | Quantity | Price (USD)  |
+|-------------------------------|----------|--------------|
+| 2020 T-Slot 200mm              | 4        | -            |
+| 2020 T-Slot 250mm              | 4        | -            |
+| L brackets                     | 2        | $8.88        |
+| T brackets                     | 2        | -            |
+| 2020 Corner Bracket            | 4        | $3.00        |
+
+### **Motion**
+| Item                          | Quantity | Price (USD)  |
+|-------------------------------|----------|--------------|
+| GT2 6mm wide Belt (4 meters)  | 1        | $10.00       |
+| 20 Tooth 5mm Bore Pulley      | 4        | $12.00       |
+| F695 Bearing Pack (10 bearings, 12 needed) | 2 | $8.00 |
+| MGN9C 150mm for X             | 1        | $11.33       |
+| Nema17 with XH2.54 Cable (48mm max for Y motor) | 4 | $53.00 |
+| 8mm Linear Rod 250mm for Y and Z | 4      | $7.00        |
+| LM8LUU 8x15x45mm              | 4        | $27.08       |
+| 3:1 Gear Reduction with belts | 2        | $18.00       |
+| 50mm x 5mm pin for Z Gearbox  | 2        | $10.00       |
+
+### **Hardware**
+| Item                                      | Quantity  |
+|-------------------------------------------|-----------|
+| M3 x 6mm Buttonhead (for toolhead)        | 4         |
+| M3 x 8mm Socket Head                      | 30        |
+| M3 x 12mm Socket Head                     | 4         |
+| M3 x 16mm Socket Head                     | 4         |
+| M3 x 20mm Bambu Hotend Mount              | 2         |
+| M3 x 35mm (for Dragon Burner mount)       | 2         |
+| M3 T-Nut (to mount linear rail to X 2020 extrusion) | 4 |
+| M5 x 8mm Socket Head                      | 76        |
+| M5 x 16mm Socket Head                     | 7         |
+| M5 x 30mm Socket Head                     | 1         |
+| M5 T-Nut                                  | 76        |
+| M5 Washer (M5x10x1 x50pcs)               | 4         |
+| Heatsets M3 X D5.0 X L4.0 (Order 300)     | -         |
+| Rubber Feet (38 x 20)                     | 4         |
+| Additional bolts for Dragon Burner Toolhead | -        |
+
+### **Extruder + Hotend**
+| Item                              | Quantity | Price (USD) |
+|-----------------------------------|----------|-------------|
+| Dual Gear Extruder HGX-LITE-Extruder | 1       | $60.00      |
+| Bambu X1 style hotend            | 1        | $22.00      |
+
+### **Electronics**
+| Item                              | Quantity | Price (USD) |
+|-----------------------------------|----------|-------------|
+| 24V 8A AC Adapter                 | 1        | $40.00      |
+| Mellow DP5 Mainboard              | 1        | $35.00      |
+| 3010 24V Fan (2 Pin HX2.54 connector) | 1      | $11.00      |
+| 4010 24V Blower (2 Pin HX2.54 connector) | 2    | $11.00      |
+| BLTouch                           | 1        | $10.00      |
+
+### **Total Cost**
+| Currency | Amount   |
+|----------|----------|
+| CAD      | $394.29  |
+| USD      | $307.55  |
 
 ## Pics  
