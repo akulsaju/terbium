@@ -1,111 +1,134 @@
 # Terbium 3D Printer Journal  
 **Repo:** [github.com/akulsaju/terbium](https://github.com/akulsaju/terbium)  
+ **CAD Hours:** *"99h 23m"* 
 *"Designing a printer because I hate free time."*  
 
 ---  
 
+
 ### **February 10, 2024**  
-Opened Onshape. Stared at blank screen. Drew a cube. Deleted cube. Felt like a fraud. Created GitHub repo. Wrote *"DIY printer project!!!"* in README. Closed laptop. Ate cereal.  
+**9:00 PM - 9:20 PM**  
+Opened Onshape. Drew a cube. Deleted cube. Felt like a tech genius. Created GitHub repo. Wrote README: *"Terbium: The Printer of Tomorrow (if tomorrow is chaos)."* Pushed empty files.  
 
 ---  
 
 ### **February 11, 2024**  
-Watched a 10-year-old YouTube video about RepRap printers. Guy used **fishing line** for belts. Panicked. Decided aluminum extrusions are safer. Googled *"how to CAD."* Got lost in a forum thread titled *"Why does my cube have 7 sides?"* Gave up.  
+**2:00 PM - 3:00 PM**  
+Watched a 2012 YouTube tutorial titled *"How to Build a Printer for $50."* Spoiler: You can’t. Guy used **wooden frames** and **fishing line belts**. Panic-sketched backup plan involving duct tape.  
+**3:15 PM - 3:25 PM**  
+Googled *"how to 3D print a 3D printer."* Realized this is a paradox. Texted friend: *"Am I in a loop?"*  
 
 ---  
 
 ### **February 14, 2024**  
-Spent 3 hours on AliExpress. Added 4 motors, 10m of *"GT2"* belt (reviews said *"snaps like twig"*), and 100 M3 screws to cart. Closed tab. *"I’ll order later… maybe."* Lied to myself.  
+**7:00 PM - 10:00 PM**  
+AliExpress window shopping:  
+- **7:30 PM**: Found NEMA17 motors labeled *"48mm height."* Seller’s name: *TrustMeBroElectronics*. Added to cart.  
+- **8:45 PM**: Added 10m of GT2 belt. Reviews said *"snaps like dry spaghetti."*  
+- **9:30 PM**: Added 100 M3 screws. Why? Because bulk = cheap.  
+- **10:00 PM**: Closed tab. *"I’ll order later… maybe."* Lied.  
 
 ---  
 
 ### **February 16, 2024**  
-CAD all-nighter. Drew a bracket. Realized it’s 2D. *"3D printers need 3D parts, right?"* Googled *"how to extrude."* Made a 3D bracket. Rotated it 180 times. Still upside-down. Cried.  
+**9:00 AM - 6:30 PM**  
+CAD all-nighter (with breaks for rage):  
+- **9:00 AM**: Designed a bracket. Realized it’s 2D. *"3D printers need 3D parts, dumbass."*  
+- **11:30 AM**: Learned how to extrude. Made a 3D bracket. Celebrated with chips.  
+- **2:00 PM**: Tried rotating part. It flipped upside-down. Googled *"how to rotate in Onshape."*  
+- **4:00 PM**: Gave up. Drew a cube again. Deleted cube.  
+- **6:00 PM**: Pushed to GitHub: *"v0.0.1 - It’s a bracket… kinda."*  
 
 ---  
 
 ### **February 18, 2024**  
-**DISASTER.** Designed Y-axis in **CENTIMETERS**. Bed size: 2100mm. *"Printer for giants?"* Redrew everything. Cried in metric. GitHub commit: *"Fixed units (I think)."*  
+**1:00 PM - 7:48 PM**  
+**1:00 PM**: Started Y-axis. Used centimeters like a fool.  
+**3:00 PM**: Realized bed is 2100mm. *"Printer for kaiju?!"*  
+**4:30 PM**: Redrew everything in millimeters. Cried.  
+**7:00 PM**: Pushed fix: *"mm > cm. I’m an idiot."*  
 
 ---  
 
 ### **February 21, 2024**  
-Tried modeling Y-axis belts. Pulleys collided with *nothing*. Onshape yelled *"CONSTRAINT CONFLICT."* Deleted half the parts. *"Good enough."*  
+**10:00 AM - 12:15 PM**  
+**10:00 AM**: Modeled Y-axis belts. Pulleys collided with air. Onshape error: *"Conflict with ghosts."*  
+**11:30 AM**: Offset pulleys 5mm. Belts phased through motors. *"Fourth-dimensional engineering!"*  
+**12:00 PM**: Pushed to GitHub: *"Y-axis exists. Don’t ask how."*  
+
+**2:00 PM - 5:30 PM**  
+**2:00 PM**: Bed design. Added hexagons. Realized they’re invisible.  
+**4:00 PM**: Engraved *"TERBIUM"* on bed. Regretted immediately.  
+**5:00 PM**: Pushed: *"Bed now 50% regret."*  
 
 ---  
 
 ### **February 22, 2024**  
-Z-axis time! Tried lead screws. Forgot nuts. *"They’ll self-align… right?"* Simulated motion. Screws bent like spaghetti. Switched to belts. Belts sagged. Switched back.  
+**9:00 AM - 12:22 PM**  
+**9:00 AM**: Z-axis time! Tried lead screws. Forgot nuts.  
+**10:30 AM**: Simulated motion. Screws bent like wet noodles.  
+**11:45 AM**: Switched to belts. Belts sagged. Switched back.  
+**12:00 PM**: GitHub Issue: *"Z-axis is a lie. Send help."*  
 
 ---  
 
 ### **February 23, 2024**  
-Printhead design hell. Wanted modular hotend. Drew mount. Forgot thermal expansion. *"PLA will hold… probably."* Added unicorn horn for cooling. Removed horn. *Sad.*  
-
----  
-
-### **February 24, 2024**  
-Reddit *"research."* Found post: *"My printer exploded."* Comments: *"Skill issue."* Closed tab. *"Terbium won’t explode… maybe."*  
+**3:00 PM - 6:10 PM**  
+**3:00 PM**: Printhead design. Wanted modular hotend.  
+**4:30 PM**: Forgot thermal expansion. Mount melts in theory.  
+**5:00 PM**: Added 0.5mm gap. *"Air cooling!"*  
+**6:00 PM**: Pushed: *"Hotend held by hopes and dreams."*  
 
 ---  
 
 ### **February 26, 2024**  
-Ran *"CFD"* on fan ducts. Airflow yeeted prints into orbit. Added 5 more fans. *"Cooling solved."* (It wasn’t.)  
+**7:00 PM - 7:20 PM**  
+Ran *"CFD"* on fan ducts. Airflow launched prints into orbit.  
+**7:15 PM**: Added 3 more fans. *"Cooling solved (lol)."*  
 
 ---  
 
 ### **February 27, 2024**  
-Frame wobbled in simulation. Added 47 brackets. Now looks like a bridge designed by a drunk pigeon. *"Sturdy. Ugly. Progress."*  
+**1:00 PM - 6:18 PM**  
+**1:00 PM**: Shook CAD model. Frame wobbled like jelly.  
+**3:00 PM**: Added 12 L-brackets. Now looks like a bridge built by pigeons.  
+**6:00 PM**: Pushed: *"Frame 50% brackets, 50% shame."*  
 
 ---  
 
 ### **February 28, 2024**  
-Belt path trauma. Pulleys phased through frame. *"Physics is optional."* Deleted pulleys. Belts now float in mid-air. *"Modern art."*  
-
----  
-
-### **February 29, 2024**  
-Y-axis revenge. Onshape error: *"OVERDEFINED SKETCH."* Deleted constraints. *"Who needs math?"*  
+**10:00 AM - 4:01 PM**  
+**10:00 AM**: Belt routing hell. Pulleys collided with nothing.  
+**2:30 PM**: Deleted pulleys. Belts float now. *"Physics optional."*  
+**3:45 PM**: GitHub Issue: *"Belts are imaginary. Trust the process."*  
 
 ---  
 
 ### **March 2, 2024**  
-Extruder design. Filament path? *"It’ll find a way."* Gears clipped through frame. *"Abstract sculpture."*  
-
----  
-
-### **March 5, 2024**  
-Electronics fantasy. Placed motherboard *inside* frame. *"Heat? Just add more fans."* Wires? *"Invisible layer. Problem solved."*  
-
----  
-
-### **March 7, 2024**  
-Bed leveling in CAD. Added screws that turn themselves. *"Skynet vibes."* Forgot springs. *"Screws will stretch… right?"*  
+**11:00 AM - 3:30 PM**  
+**11:00 AM**: Extruder design. Filament path intersects frame.  
+**1:00 PM**: Offset gears 2mm. *"Self-clearancing™ technology."*  
+**3:00 PM**: Pushed: *"Extruder eats itself. Feature, not bug."*  
 
 ---  
 
 ### **March 12, 2024**  
-Aesthetic crisis. Rendered frame neon green. *"Retinas burned."* Switched to purple. Added RGB LEDs. *"Rave printer."*  
-
----  
-
-### **March 15, 2024**  
-GitHub repo glow-up. Added GIF of CAD model spinning. README: *"It’s not a bug, it’s a feature."* Got 1 star (my cat).  
-
----  
-
-### **March 18, 2024**  
-X-axis ate the frame. *Again.* Added limit switches. *"Hungry printer. Feed it STLs."*  
+**4:00 PM - 7:55 PM**  
+**4:00 PM**: Rendered frame neon green. *"Retinas burned."*  
+**6:00 PM**: Switched to purple. Added RGB LEDs.  
+**7:30 PM**: Pushed: *"Printer now rave-ready. 🌈"*  
 
 ---  
 
 ### **March 20, 2024**  
-Exported STLs. They’ll 100% need rework. *"Future me’s problem."*  
+**8:00 AM - 2:33 PM**  
+**8:00 AM**: Exported STLs. Parts intersect. Tolerances? Never heard of ’em.  
+**2:00 PM**: Pushed: *"Print at your own risk. 🔥"*  
 
 ---  
 
 ### **Vibe Check**  
-- **CAD Hours:** *"99h 23m"* (Lie. It’s 300h.)  
+- **CAD Hours:** *"99h 23m"*  
 - **Confidence:** *"It’ll work… maybe."*  
 - **Aesthetic:** *Lisa Frank’s nightmare.*  
 - **Next Step:** *Order parts… or burn it all.*  
