@@ -91,7 +91,8 @@
 ---  
 
 ### **Overall**  
-- **CAD Hours:** *"99h 23m"*  
+- **CAD Hours:** *"99h 23m"*
+- **BOM:** *"https://docs.google.com/spreadsheets/d/1OlRZbKyhsi1nM5R4tDLmwMiiqEgzE4qpPp_ct5iw9p4/edit?usp=sharing "*
 ---
 Terbium: Because buying a printer is for nerds with money. 💸🔥  
 ---
