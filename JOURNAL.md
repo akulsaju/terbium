@@ -93,6 +93,6 @@
 ### **Overall**  
 - **CAD Hours:** *"99h 23m"*  
 ---
-*Terbium: Because buying a printer is for nerds with money.* 💸🔥  
+Terbium: Because buying a printer is for nerds with money. 💸🔥  
 ---
-###Pics###
+### ***Pics***
